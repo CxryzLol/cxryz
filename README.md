@@ -1,4 +1,4 @@
-**Website**: https://swade.ga
+**Website**: https://cxryz.cf
 
 FAQ
 * **What do you use to host? Is it free?**
