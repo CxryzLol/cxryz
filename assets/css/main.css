@@ -68,7 +68,7 @@ body {
 }
 a {
   text-decoration:none;
-  color:gray!important
+  color:black!important
 }
 a:hover {
   transition:.4s!important;
